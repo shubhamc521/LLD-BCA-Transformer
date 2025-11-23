@@ -95,6 +95,8 @@ LLD-BCA-Transformer/
 
 ## Getting Started
 
+**👉 New to this repository? Check out the [Quick Start Guide](QUICK_START.md) for a detailed learning path!**
+
 ### Prerequisites
 - Java Development Kit (JDK) 8 or higher
 - Basic understanding of Object-Oriented Programming
@@ -116,8 +118,22 @@ cd 02-Design-Patterns/Creational/Singleton
 3. Compile and run the Java files:
 ```bash
 javac *.java
-java Main
+java SingletonDemo
 ```
+
+### Implemented Patterns (Ready to Run!)
+
+✅ **Creational Patterns:**
+- Singleton Pattern
+- Factory Pattern
+- Builder Pattern
+
+✅ **Behavioral Patterns:**
+- Observer Pattern
+- Strategy Pattern
+
+✅ **Structural Patterns:**
+- Decorator Pattern
 
 ## Contributing
 
