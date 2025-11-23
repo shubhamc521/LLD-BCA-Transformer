@@ -1,6 +1,7 @@
 # Single Responsibility Principle
 
-A class or module should have one and only reason to change.
+A class or module should have one and only reason to change. 
+Should have only one reponsibility.
 
 Class - Blueprint for objects, Groups data members (fields) and functions (behaviors).
 Method - A functions

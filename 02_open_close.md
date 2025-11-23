@@ -104,6 +104,14 @@ public class StudentDiscount implements DiscountStrategy{
     }
 }
 
+public class DiwaliDiscount implements DiscountStrategy{
+    @Override
+    public double apply(double total){
+        return total * 0.5; // 5% off
+    }
+}
+
+
 public class DiscountCalculator {
     private DiscountStrategy strategy;
 

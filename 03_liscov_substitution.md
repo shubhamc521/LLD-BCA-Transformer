@@ -51,7 +51,7 @@ public class CurrentAccount extends BankAccount{
 
     // Withdraw Method
 
-    //getbal
+    // getbal
 }
 
 public class FixedAccount extends BankAccount{
@@ -135,6 +135,29 @@ WithdrawAccount --> Saving and Current
 NonwithDrawAccoujnt --> FixedDeposit
 
 Client checks ---> If its a withdrawAccount or nonWithdrawAc.
+
+
+
+
+
+Animal 
+    -Eat
+    -Sleep
+    -Fly //Remove  
+
+Birth 
+    - Eat
+    - Sleep
+    - FLY
+
+Human
+    - Eat
+    - Sleeps
+    - FLY - Throw exception. //
+
+Animal a : 
+Human h 
+
 
 
 
